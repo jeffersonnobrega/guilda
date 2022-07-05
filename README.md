@@ -12,6 +12,11 @@ Local de aprendizagem, testes, experimentos. Forjando um DEV.
  - Falhas pendentes de correção;
  - Apostilas e livros sobre desenvolvimento;
  - E tudo que levar ao crescimento do desenvolvedor.
+ 
+ ## 🔨 Projetos por Linguagem
+ 
+ ### HTML5 & CSS3
+ - <a href="https://github.com/jeffersonnobrega/guilda/tree/main/HTML5-CSS3/Cartao_de_Visitas">Cartão de Visita</a>
 
 Por esse motivo chamei de **"Guilda"**, porque aqui é um local de boas vindas para todos que visam se tornarem grandes DEV's.
 
