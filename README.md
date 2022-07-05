@@ -11,7 +11,7 @@ Local de aprendizagem, testes, experimentos. Forjando um DEV.
  - Experimentos e seus resultados;
  - Falhas pendentes de correção;
  - Apostilas e livros sobre desenvolvimento;
- - E tudo que levar ao crescimento do desenvolvedor.
+ - E tudo que pode levar ao crescimento do desenvolvedor.
  
  ## 🔨 Projetos por Linguagem
  
