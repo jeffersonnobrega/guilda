@@ -1,1 +1,0 @@
-#Scripts em linguagem BAT
