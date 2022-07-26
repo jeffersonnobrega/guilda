@@ -16,8 +16,24 @@ Local de aprendizagem, testes, experimentos. Forjando um DEV.
  
  ## 🔨 Projetos por Linguagem
  
- ### HTML5 & CSS3
+ ## HTML5 & CSS3
  - <a href="https://github.com/jeffersonnobrega/guilda/tree/main/Projetos/HTML5-CSS3/Cartao-visita">Cartão de Visita</a>
+ 
+ ## Linguagens de Script
+ 
+ <a href="https://github.com/jeffersonnobrega/guilda/tree/main/SCRIPTS-bat-cmd-vbs/PowerShell">PowerShell</a>
+ 
+ - Copiar membros entre grupos do AD
+ 
+ Script para copiar os membros de um grupo do AD para outro grupo. Ideal principalmente para quando for vários grupos de rede.
+ 
+ - Criar grupos no AD a partir de um CSV
+ 
+ Script para criar grupos no LDAP a partir de uma planilha. Ideal para criar novas estruturas sem a necessidade de criar grupo por grupo.
+ 
+ - Pegar permissões de segurança de diretórios
+ 
+ Script para obter as permissões de seguranças de diretórios de rede, especifica quais usuários ou grupos têm permissão e o tipo de permissão, além disso exporta para uma planilha o resultado.
 
 
 
